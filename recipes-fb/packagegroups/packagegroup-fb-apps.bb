@@ -49,4 +49,7 @@ RDEPENDS_${PN}-system = " \
         phosphor-post-code-manager \
         phosphor-host-postd \
         phosphor-nvme \
+        obmc-phosphor-buttons \
+        obmc-phosphor-buttons-handler \
+        obmc-phosphor-buttons-signals \
         "
